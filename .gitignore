@@ -1,0 +1,7 @@
+# Build files
+*.o
+main
+
+# Backup files
+*~
+
